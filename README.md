@@ -173,9 +173,15 @@ https://www.amazon.co.jp/dp/448043741X/ref=cm_sw_r_tw_dp_GF62NBTAVRY97XR23529?_e
 https://www.amazon.co.jp/dp/4877887881/ref=cm_sw_r_tw_dp_3MJ3Z0SGDBBXKJ3MAWW9<br>
 *おすすめ by うえげん（@uegen010)*
 
-# ストーリー
+# そのた
 <a href="https://www.amazon.co.jp/%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E7%8F%BE%E4%BB%A3%E9%AD%94%E6%B3%95-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E6%A1%9C%E5%9D%82%E6%B4%8B-ebook/dp/B00JB6MN22?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E7%8F%BE%E4%BB%A3%E9%AD%94%E6%B3%95&qid=1629600948&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=78d1363dcaa18eea3326a8ae53432a41&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JB6MN22&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=B00JB6MN22" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
 **『よくわかる現代魔法』** 桜坂洋  (著), 宮下未紀  (著) ,集英社,2009<br>
 https://www.amazon.co.jp/dp/B00JB6MN22/ref=cm_sw_r_tw_dp_CRDBK223R1CQ6PRVSATE<br>
 *おすすめ by え ͤみ ͫ  ͤー ͤん ͛(@emeen231)*
+
+<a href="https://www.amazon.co.jp/%E3%83%98%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E-%E2%80%95%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%92%E6%A5%BD%E3%81%97%E3%81%8F%E7%B6%9A%E3%81%91%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E5%81%A5%E5%BA%B7Hack-Joe-Kutner/dp/4873117283?adgrpid=103944092386&dchild=1&gclid=Cj0KCQjwjo2JBhCRARIsAFG667XkWm7Hp5gGEnWexx5Czru8_IExUnBELY8eKPmcp9BoHBJqiAjMBLEaAjFpEALw_wcB&hvadid=448775681022&hvdev=c&hvlocphy=1009333&hvnetw=g&hvqmt=e&hvrand=9323291036368159620&hvtargid=kwd-334507920711&hydadcr=15819_11177362&jp-ad-ap=0&keywords=%E3%83%98%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E&qid=1629718181&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=cea0dcbc3f8fef57fc40486a858b1f9d&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4873117283&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4873117283" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『ヘルシープログラマ ―プログラミングを楽しく続けるための健康Hack』**　Joe Kutner (著), Sky株式会社 玉川 竜司 (翻訳),オライリージャパン,2015<br>
+https://www.amazon.co.jp/dp/4873117283/ref=cm_sw_r_tw_dp_5QV2ET4N4X22BZX13PH2<br>
+*おすすめ by deconbatch(@deconbatch)*
+
 

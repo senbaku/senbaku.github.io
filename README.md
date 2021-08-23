@@ -166,6 +166,11 @@ https://www.amazon.co.jp/dp/4568300533/ref=cm_sw_r_tw_dp_1GTC27JA1T137BJZBF70<br
 https://www.amazon.co.jp/dp/448043741X/ref=cm_sw_r_tw_dp_GF62NBTAVRY97XR23529?_encoding=UTF8&psc=1<br>
 *おすすめ by ttx(@shiromegattx)*
 
+<a href="https://www.amazon.co.jp/%E5%B7%AE%E5%88%86-%E4%BD%90%E8%97%A4-%E9%9B%85%E5%BD%A6/dp/4568503655?&linkCode=li2&tag=holohoto22-22&linkId=7d30657021e5e23e9b401a732f59683a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4568503655&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4568503655" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『差分』** 佐藤 雅彦  (著), 菅 俊一  (著), 石川 将也  (著),美術出版社,2009<br>
+https://www.amazon.co.jp/dp/4568503655/ref=cm_sw_r_tw_dp_PSBQCBM8HDSGV8TD7X7P<br>
+*おすすめ by タカハシラボ(@ke_takahashi)*
+
 
 # 音楽
 <a href="https://www.amazon.co.jp/%E9%9F%B3%E6%A5%BD%E5%8F%B2%E3%82%92%E5%AD%A6%E3%81%B6-%E5%8F%A4%E4%BB%A3%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3%E3%81%8B%E3%82%89%E7%8F%BE%E4%BB%A3%E3%81%BE%E3%81%A7-%E4%B9%85%E4%BF%9D%E7%94%B0%E6%85%B6%E4%B8%80/dp/4877887881?&linkCode=li2&tag=holohoto22-22&linkId=0764fa60ee0cf15b3b4eca67ffa3e0d9&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4877887881&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4877887881" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>

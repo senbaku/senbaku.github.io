@@ -1,6 +1,10 @@
 # Hello
 Processing Community Hangout Japan # 06　の雑談部屋でのおすすめ本紹介がたのしかったので、creativeCoderの推し本をまとめる場所をつくりました。「この本も載せて！」という本があれば、twitterにて@senbakuにメンションか、#creativeCoderの推し本 のハッシュタグにあてて投稿してください〜。
 
+**new**
+- 2021/08/23 開設
+- 2021/08/24『野老紋様集 2001–2021→』,『装飾パターンの法則』追加
+
 todo : 
 Raphaël de Courville(@sableRaph)さんのリスト(https://twitter.com/sableRaph/status/1427649830491496448)　の本をのせる
 
@@ -147,8 +151,13 @@ https://www.amazon.co.jp/dp/413006021X/ref=cm_sw_r_tw_dp_12FDHVPNV3D3HF5BRW3V<br
 hhttps://www.amazon.co.jp/dp/4309289002/ref=cm_sw_r_tw_dp_CRJ5P2JJ709MCFZF4QBZ<br>
 *おすすめ by うえげん（@uegen010)*
 
+<a href="https://www.amazon.co.jp/%E9%87%8E%E8%80%81%E7%B4%8B%E6%A7%98%E9%9B%86-2001%E2%80%932021%E2%86%92-%E9%87%8E%E8%80%81%E6%9C%9D%E9%9B%84/dp/4568105277?&linkCode=li2&tag=holohoto22-22&linkId=0a67795d9f4fbecd478540984dceab6c&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4568105277&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4568105277" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『野老紋様集 2001–2021→』**　野老朝雄 (著),美術出版社,2021<br>
+https://www.amazon.co.jp/dp/4568105277/ref=cm_sw_r_tw_dp_0CQH2N5SM3W2567FJPX9<br>
+*おすすめ by mits miyake(@mmits003)*
 
-# 絵画、デザイン理論
+
+# 絵画、デザイン理論、技法
 <a href="https://www.amazon.co.jp/dp/4395320465?&linkCode=li2&tag=holohoto22-22&linkId=b669df1b5969dc8d174df527e0a21db0&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4395320465&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4395320465" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **『クリストファー・アレグザンダーの思考の軌跡―デザイン行為の意味を問う』**　長坂 一郎 (著),彰国社,2015<br>
@@ -170,6 +179,11 @@ https://www.amazon.co.jp/dp/448043741X/ref=cm_sw_r_tw_dp_GF62NBTAVRY97XR23529?_e
 **『差分』** 佐藤 雅彦  (著), 菅 俊一  (著), 石川 将也  (著),美術出版社,2009<br>
 https://www.amazon.co.jp/dp/4568503655/ref=cm_sw_r_tw_dp_PSBQCBM8HDSGV8TD7X7P<br>
 *おすすめ by タカハシラボ(@ke_takahashi)*
+
+<a href="https://www.amazon.co.jp/%E8%A3%85%E9%A3%BE%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%AE%E6%B3%95%E5%89%87-%E8%97%A4%E7%94%B0-%E4%BC%B8/dp/4883033767?&linkCode=li2&tag=holohoto22-22&linkId=81231d440221f03fcb76efb07cd47be6&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4883033767&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4883033767" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『装飾パターンの法則』** 藤田 伸 (著),三元社,2015<br>
+https://www.amazon.co.jp/dp/4883033767/ref=cm_sw_r_tw_dp_NV7EFNNQ9MMZYTCPKTTF<br>
+*おすすめ by mits miyake(@mmits003)*
 
 
 # 音楽

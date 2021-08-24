@@ -5,8 +5,10 @@ Processing Community Hangout Japan # 06　の雑談部屋でのおすすめ本�
 - 2021/08/23 開設
 - 2021/08/24『野老紋様集 2001–2021→』,『装飾パターンの法則』追加
 
-todo : 
-Raphaël de Courville(@sableRaph)さんのリスト(https://twitter.com/sableRaph/status/1427649830491496448)　の本をのせる
+todo : <br>
+Raphaël de Courville(@sableRaph)さんのリスト(https://twitter.com/sableRaph/status/1427649830491496448)　の本をのせる<br>
+👀  :<br>
+WFrederik Vanhoutteさん(@wblut)のBooklist: https://www.patreon.com/posts/37589393<br>
 
 ---
 # p5.js/Processing

@@ -3,7 +3,8 @@ Processing Community Hangout Japan # 06　の雑談部屋でのおすすめ本�
 
 **new**
 - 2021/08/23 開設
-- 2021/08/24『野老紋様集 2001–2021→』,『装飾パターンの法則』追加
+- 2021/08/24 『野老紋様集 2001–2021→』,『装飾パターンの法則』追加
+- 2021/08/25 『自然界に隠された美しい数学』,『MATH ART マス・アート~真理,美,そして方程式』,『アートのための数学』,『デザインのための数学』追加
 
 todo : <br>
 Raphaël de Courville(@sableRaph)さんのリスト(https://twitter.com/sableRaph/status/1427649830491496448)　の本をのせる<br>
@@ -137,14 +138,33 @@ https://www.amazon.co.jp/dp/4000296914/ref=cm_sw_r_tw_dp_N48W4JEEK7MNGKTAB8CM<br
 <a href="https://www.amazon.co.jp/%E4%BD%9C%E3%81%A3%E3%81%A6%E5%8B%95%E3%81%8B%E3%81%99ALife-%E2%80%95%E5%AE%9F%E8%A3%85%E3%82%92%E9%80%9A%E3%81%97%E3%81%9F%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%E3%83%A2%E3%83%87%E3%83%AB%E7%90%86%E8%AB%96%E5%85%A5%E9%96%80-%E5%B2%A1-%E7%91%9E%E8%B5%B7/dp/4873118476?adgrpid=105140291420&dchild=1&gclid=CjwKCAjw64eJBhAGEiwABr9o2LhHtJbfrXOOGNep-7p1_h7FmROROSj1TAKBUXjfjoM2leM9QOSk_RoCPncQAvD_BwE&hvadid=448420074458&hvdev=c&hvlocphy=1009333&hvnetw=g&hvqmt=e&hvrand=4166498722652900682&hvtargid=kwd-498809778674&hydadcr=27264_10203585&jp-ad-ap=0&keywords=%E4%BD%9C%E3%81%A3%E3%81%A6%E5%8B%95%E3%81%8B%E3%81%99alife&qid=1629617604&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=c2e3cedaad77bf4efa44bc428964121f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4873118476&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4873118476" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
 **『作って動かすALife ―実装を通した人工生命モデル理論入門』** 岡 瑞起 (著), 池上 高志 (著), ドミニク・チェン  (著), 青木 竜太 (著), & 1 その他,オライリージャパン,2018<br>
 https://www.amazon.co.jp/dp/4873118476/ref=cm_sw_r_tw_dp_5H3V4ZF6TT8K76MAJ2VB<br>
-*おすすめ by senbaku(@senbaku)* <br>
+*おすすめ by senbaku(@senbaku), 独楽回しeddy(@EKey2210)* <br>
 
 <a href="https://www.amazon.co.jp/%E7%94%9F%E7%89%A9%E3%81%AE%E3%81%8B%E3%81%9F%E3%81%A1-UP%E9%81%B8%E6%9B%B8-121-%E3%83%80%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%88%E3%83%A0%E3%82%BD%E3%83%B3/dp/413006021X?&linkCode=li2&tag=holohoto22-22&linkId=6a8af08770638abb62c88b2b31a26fd1&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=413006021X&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=413006021X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
 **『生物のかたち』** (UP選書 (121),ダーシー・トムソン (著), 柳田 友道 (翻訳),東京大学出版会,1973
 https://www.amazon.co.jp/dp/413006021X/ref=cm_sw_r_tw_dp_12FDHVPNV3D3HF5BRW3V<br>
 *おすすめ by メリー(@fnXzxnwcP6iZlUn)*<br>
 
+<a href="https://www.amazon.co.jp/%E8%87%AA%E7%84%B6%E7%95%8C%E3%81%AB%E9%9A%A0%E3%81%95%E3%82%8C%E3%81%9F%E7%BE%8E%E3%81%97%E3%81%84%E6%95%B0%E5%AD%A6-%E6%B2%B3%E5%87%BA%E6%96%87%E5%BA%AB-%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88/dp/4309467296?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E8%87%AA%E7%84%B6%E7%95%8C%E3%81%AB%E9%9A%A0%E3%81%95%E3%82%8C%E3%81%9F%E7%BE%8E%E3%81%97%E3%81%84%E6%95%B0%E5%AD%A6&qid=1629836865&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=30248eb18b3446a2121a88845c19a839&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4309467296&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4309467296" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『自然界に隠された美しい数学』**イアン・スチュアート (著), 梶山あゆみ (翻訳),河出書房新社(河出文庫),2021<br>
+https://www.amazon.co.jp/dp/4309467296/ref=cm_sw_r_tw_dp_7H89N60J2V4TMXB8R606 <br>
+*おすすめ by Sad Juno(@Sad_Juno)*<br>
 
+<a href="https://www.amazon.co.jp/MATH-ART-%E3%83%9E%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%88-%E7%9C%9F%E7%90%86-%E7%BE%8E-%E3%81%9D%E3%81%97%E3%81%A6%E6%96%B9%E7%A8%8B%E5%BC%8F/dp/4315523275?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MATH+ART&qid=1629837106&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=bac73dc611a3af50d4cddb9c908080fe&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4315523275&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4315523275" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『MATH ART マス・アート~真理,美,そして方程式』**　スティーヴン・オーンズ (著), 巴山 竜来 (監修),ニュートンプレス,2021<br>
+https://www.amazon.co.jp/dp/4315523275/ref=cm_sw_r_tw_dp_JA32Z9H0PC340JRWPJH6<br>
+*おすすめ by Sad Juno(@Sad_Juno)*<br>
+
+
+<a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%BC%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%95%B0%E5%AD%A6-%E7%AC%AC2%E7%89%88-%E7%89%9F%E7%94%B0-%E6%B7%B3/dp/4274226743?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A2%E3%83%BC%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%95%B0%E5%AD%A6&qid=1629836729&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=cac094e662c08d3d477dd469f3238fe6&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4274226743&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4274226743" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『アートのための数学(第2版)』**　牟田 淳 (著),オーム社,2021<br>
+https://www.amazon.co.jp/dp/4274226743/ref=cm_sw_r_tw_dp_BTYCVS9KENNPXXSV91NV<br>
+*おすすめ by 独楽回しeddy(@EKey2210)*
+
+<a href="https://www.amazon.co.jp/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%95%B0%E5%AD%A6-%E7%89%9F%E7%94%B0-%E6%B7%B3/dp/4274068250?_encoding=UTF8&qid=1629836729&sr=8-4&linkCode=li2&tag=holohoto22-22&linkId=862376d11a58074aed86e9b4fa384769&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4274068250&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4274068250" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『デザインのための数学』**　牟田 淳 (著),オーム社,2010<br>
+https://www.amazon.co.jp/dp/4274068250/ref=cm_sw_r_tw_dp_EGCKBP9TKDX14A4KA0Y9<br>
+*おすすめ by 独楽回しeddy(@EKey2210)*
 
 
 # インスピレーション

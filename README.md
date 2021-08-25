@@ -5,6 +5,7 @@ Processing Community Hangout Japan # 06　の雑談部屋でのおすすめ本�
 - 2021/08/23 開設
 - 2021/08/24 『野老紋様集 2001–2021→』,『装飾パターンの法則』追加
 - 2021/08/25 『自然界に隠された美しい数学』,『MATH ART マス・アート~真理,美,そして方程式』,『アートのための数学』,『デザインのための数学』追加
+- 2021/08/25 『FORM+CODE -デザイン／アート／建築における、かたちとコード』追加
 
 todo : <br>
 Raphaël de Courville(@sableRaph)さんのリスト(https://twitter.com/sableRaph/status/1427649830491496448)　の本をのせる<br>
@@ -177,6 +178,13 @@ hhttps://www.amazon.co.jp/dp/4309289002/ref=cm_sw_r_tw_dp_CRJ5P2JJ709MCFZF4QBZ<b
 **『野老紋様集 2001–2021→』**　野老朝雄 (著),美術出版社,2021<br>
 https://www.amazon.co.jp/dp/4568105277/ref=cm_sw_r_tw_dp_0CQH2N5SM3W2567FJPX9<br>
 *おすすめ by mits miyake(@mmits003)*
+
+<a href="https://www.amazon.co.jp/FORM-CODE-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%EF%BC%8F%E3%82%A2%E3%83%BC%E3%83%88%EF%BC%8F%E5%BB%BA%E7%AF%89%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%80%81%E3%81%8B%E3%81%9F%E3%81%A1%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%89-%E4%B9%85%E4%BF%9D%E7%94%B0-%E6%99%83%E5%BC%98/dp/4861007518?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=FORM%2BCODE&qid=1629874779&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=1ebe46afb3a3feef69d5b9abe7ae8107&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4861007518&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4861007518" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『FORM+CODE -デザイン／アート／建築における、かたちとコード』**　久保田 晃弘(監修), 吉村 マサテル翻訳),ビー・エヌ・エヌ新社,2011<br>
+https://www.amazon.co.jp/dp/4861007518/ref=cm_sw_r_tw_dp_185WEXRM1V6AEM6YZEZJ <br>
+出版社紹介ページ→ http://www.bnn.co.jp/books/3810/<br>
+*おすすめ by 山辺真幸(@masakick)*
+
 
 
 # 絵画、デザイン理論、技法

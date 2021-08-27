@@ -3,9 +3,8 @@ Processing Community Hangout Japan # 06　の雑談部屋でのおすすめ本�
 
 **new**
 - 2021/08/23 開設
-- 2021/08/24 『野老紋様集 2001–2021→』,『装飾パターンの法則』追加
-- 2021/08/25 『自然界に隠された美しい数学』,『MATH ART マス・アート~真理,美,そして方程式』,『アートのための数学』,『デザインのための数学』追加
 - 2021/08/25 『FORM+CODE -デザイン／アート／建築における、かたちとコード』追加
+- 2021/08/27 『デザイン言語　Processing入門 - 楽しく学ぶコンピュテーショナルデザイン』追加
 
 todo : <br>
 Raphaël de Courville(@sableRaph)さんのリスト(https://twitter.com/sableRaph/status/1427649830491496448)　の本をのせる<br>
@@ -141,6 +140,12 @@ https://www.amazon.co.jp/dp/4000296914/ref=cm_sw_r_tw_dp_N48W4JEEK7MNGKTAB8CM<br
 https://www.amazon.co.jp/dp/4873118476/ref=cm_sw_r_tw_dp_5H3V4ZF6TT8K76MAJ2VB<br>
 *おすすめ by senbaku(@senbaku), 独楽回しeddy(@EKey2210)* <br>
 
+<a href="https://www.amazon.co.jp/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E8%A8%80%E8%AA%9E-Processing%E5%85%A5%E9%96%80-%E6%A5%BD%E3%81%97%E3%81%8F%E5%AD%A6%E3%81%B6%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E4%B8%89%E4%BA%95-%E5%92%8C%E7%94%B7/dp/4627849311?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E8%A8%80%E8%AA%9E%EF%BC%B0%EF%BD%92%EF%BD%8F%EF%BD%83%EF%BD%85%EF%BD%93%EF%BD%93%EF%BD%89%EF%BD%8E%EF%BD%87%E5%85%A5%E9%96%80&qid=1630030944&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=7dbcb3d827fa4190d72f170fa6998ba2&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4627849311&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4627849311" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『デザイン言語　Processing入門 - 楽しく学ぶコンピュテーショナルデザイン』**　三井 和男(著),森北出版,2011<br>
+https://www.amazon.co.jp/dp/4627849311/ref=cm_sw_r_tw_dp_NTWWT3J8FDRDHJD11QQ6<br>
+*おすすめ by 山辺真幸(@masakick)*
+
+
 <a href="https://www.amazon.co.jp/%E7%94%9F%E7%89%A9%E3%81%AE%E3%81%8B%E3%81%9F%E3%81%A1-UP%E9%81%B8%E6%9B%B8-121-%E3%83%80%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%88%E3%83%A0%E3%82%BD%E3%83%B3/dp/413006021X?&linkCode=li2&tag=holohoto22-22&linkId=6a8af08770638abb62c88b2b31a26fd1&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=413006021X&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=413006021X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
 **『生物のかたち』** (UP選書 (121),ダーシー・トムソン (著), 柳田 友道 (翻訳),東京大学出版会,1973
 https://www.amazon.co.jp/dp/413006021X/ref=cm_sw_r_tw_dp_12FDHVPNV3D3HF5BRW3V<br>
@@ -180,7 +185,7 @@ https://www.amazon.co.jp/dp/4568105277/ref=cm_sw_r_tw_dp_0CQH2N5SM3W2567FJPX9<br
 *おすすめ by mits miyake(@mmits003)*
 
 <a href="https://www.amazon.co.jp/FORM-CODE-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%EF%BC%8F%E3%82%A2%E3%83%BC%E3%83%88%EF%BC%8F%E5%BB%BA%E7%AF%89%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%80%81%E3%81%8B%E3%81%9F%E3%81%A1%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%89-%E4%B9%85%E4%BF%9D%E7%94%B0-%E6%99%83%E5%BC%98/dp/4861007518?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=FORM%2BCODE&qid=1629874779&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=1ebe46afb3a3feef69d5b9abe7ae8107&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4861007518&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4861007518" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
-**『FORM+CODE -デザイン／アート／建築における、かたちとコード』**　久保田 晃弘(監修), 吉村 マサテル翻訳),ビー・エヌ・エヌ新社,2011<br>
+**『FORM+CODE -デザイン／アート／建築における、かたちとコード』**　久保田 晃弘(監修), 吉村 マサテル(翻訳),ビー・エヌ・エヌ新社,2011<br>
 https://www.amazon.co.jp/dp/4861007518/ref=cm_sw_r_tw_dp_185WEXRM1V6AEM6YZEZJ <br>
 出版社紹介ページ→ http://www.bnn.co.jp/books/3810/<br>
 *おすすめ by 山辺真幸(@masakick)*

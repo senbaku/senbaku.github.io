@@ -3,8 +3,9 @@ Processing Community Hangout Japan # 06　の雑談部屋でのおすすめ本�
 
 **new**
 - 2021/08/23 開設
-- 2021/08/25 『FORM+CODE -デザイン／アート／建築における、かたちとコード』追加
 - 2021/08/27 『デザイン言語　Processing入門 - 楽しく学ぶコンピュテーショナルデザイン』追加
+- 2021/08/28　『Nature of Code -Processingではじめる自然現象のシミュレーション-』,『美の幾何学―天のたくらみ、人のたくみ』,『アルゴリズミック・デザイン―建築・都市の新しい設計手法』追加
+
 
 todo : <br>
 Raphaël de Courville(@sableRaph)さんのリスト(https://twitter.com/sableRaph/status/1427649830491496448)　の本をのせる<br>
@@ -38,6 +39,20 @@ http://www.bnn.co.jp/support/generativedesign_p5js/<br>
 **『数学から創るジェネラティブアート - Processingで学ぶかたちのデザイン』** 巴山 竜来 (著),技術評論社,2019<br>
 https://www.amazon.co.jp/dp/4297104636/ref=cm_sw_r_tw_dp_2ZQSV5KWAQZNFT6QGWWG<br>
 *おすすめ by eqs(@eqs_work)* <br>
+
+<a href="https://www.amazon.co.jp/Nature-Code-Processing%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E8%87%AA%E7%84%B6%E7%8F%BE%E8%B1%A1%E3%81%AE%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%95%E3%83%9E%E3%83%B3/dp/4862462456?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=nature+of+code&qid=1630136118&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=1f4fda2531ebe58489c1a603b85a7887&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4862462456&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4862462456" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『Nature of Code -Processingではじめる自然現象のシミュレーション-』** ダニエル・シフマン (著), Daniel Shiffman (著), 尼岡 利崇 (監修), 鈴木 由美 (編集),  株式会社Bスプラウト (翻訳),ボーンデジタル,2014<br>
+https://www.amazon.co.jp/dp/4862462456/ref=cm_sw_r_tw_dp_DGAVFYZ5ZT0A2C2HVPX0<br>
+
+PDF購入 -> https://www.borndigital.co.jp/book/5425.html<br>
+
+Git hub (p5.js) https://github.com/nature-of-code/noc-examples-p5.js?files=1<br>
+YouTube(p5.js) https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM<br>
+Git hub(Processing) https://github.com/nature-of-code/noc-examples-processing<br>
+YouTube(Processing) https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK
+
+*おすすめ by Sad Juno(@Sad_Juno)* <br>
+
 
 
 # 技術
@@ -172,6 +187,11 @@ https://www.amazon.co.jp/dp/4274226743/ref=cm_sw_r_tw_dp_BTYCVS9KENNPXXSV91NV<br
 https://www.amazon.co.jp/dp/4274068250/ref=cm_sw_r_tw_dp_EGCKBP9TKDX14A4KA0Y9<br>
 *おすすめ by 独楽回しeddy(@EKey2210)*
 
+<a href="https://www.amazon.co.jp/%E7%BE%8E%E3%81%AE%E5%B9%BE%E4%BD%95%E5%AD%A6%E2%80%95%E5%A4%A9%E3%81%AE%E3%81%9F%E3%81%8F%E3%82%89%E3%81%BF%E3%80%81%E4%BA%BA%E3%81%AE%E3%81%9F%E3%81%8F%E3%81%BF-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E6%96%87%E5%BA%AB-NF-370-%E3%80%88%E6%95%B0%E7%90%86%E3%82%92%E6%84%89%E3%81%97%E3%82%80%E3%80%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/dp/4150503702?adgrpid=112690816468&dchild=1&gclid=Cj0KCQjwvaeJBhCvARIsABgTDM65aDQcQgAynxNUd53YZ5GVEdX_BV3FZc-AHeBzYHv5jtdY5uPNJKwaAuV2EALw_wcB&hvadid=448449358012&hvdev=c&hvlocphy=1009333&hvnetw=g&hvqmt=e&hvrand=6060646795151853407&hvtargid=kwd-334738792025&hydadcr=13893_10891627&jp-ad-ap=0&keywords=%E7%BE%8E%E3%81%AE%E5%B9%BE%E4%BD%95%E5%AD%A6&qid=1630136604&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=77cf92528394965655a64f9b9c3f01d3&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4150503702&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4150503702" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『美の幾何学―天のたくらみ、人のたくみ』**　(ハヤカワ文庫 NF 370 〈数理を愉しむ〉シリーズ) ,伏見 康治(著), 安野　光雅(著), 中村　義作(著),早川書房,2010<br>
+https://www.amazon.co.jp/dp/4150503702/ref=cm_sw_r_tw_dp_VQ2QRVYA4HJ2Z191AT0D<br>
+*おすすめ by Sad Juno(@Sad_Juno)* <br>
+
 
 # インスピレーション
 <a href="https://www.amazon.co.jp/dp/4309289002?&linkCode=li2&tag=holohoto22-22&linkId=0987d4e00cb213a6281ad4d993af0814&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4309289002&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4309289002" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
@@ -189,6 +209,11 @@ https://www.amazon.co.jp/dp/4568105277/ref=cm_sw_r_tw_dp_0CQH2N5SM3W2567FJPX9<br
 https://www.amazon.co.jp/dp/4861007518/ref=cm_sw_r_tw_dp_185WEXRM1V6AEM6YZEZJ <br>
 出版社紹介ページ→ http://www.bnn.co.jp/books/3810/<br>
 *おすすめ by 山辺真幸(@masakick)*
+
+<a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E2%80%95%E5%BB%BA%E7%AF%89%E3%83%BB%E9%83%BD%E5%B8%82%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E8%A8%AD%E8%A8%88%E6%89%8B%E6%B3%95-%E6%97%A5%E6%9C%AC%E5%BB%BA%E7%AF%89%E5%AD%A6%E4%BC%9A/dp/4306045234?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3+%3A+%E5%BB%BA%E7%AF%89%E3%83%BB%E9%83%BD%E5%B8%82%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E8%A8%AD%E8%A8%88%E6%89%8B%E6%B3%95&qid=1630136759&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=590554e39b464d0b352c1a30d779a2e8&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4306045234&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4306045234" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『アルゴリズミック・デザイン―建築・都市の新しい設計手法』** 日本建築学会 (編集),鹿島出版会,2009<br>
+https://www.amazon.co.jp/dp/4306045234/ref=cm_sw_r_tw_dp_G9TK1ZSX70DMQ22S5JV8<br>
+*おすすめ by Sad Juno(@Sad_Juno)* <br>
 
 
 

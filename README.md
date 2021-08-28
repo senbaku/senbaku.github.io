@@ -46,10 +46,12 @@ https://www.amazon.co.jp/dp/4862462456/ref=cm_sw_r_tw_dp_DGAVFYZ5ZT0A2C2HVPX0<br
 
 PDF購入 -> https://www.borndigital.co.jp/book/5425.html<br>
 
-Git hub (p5.js) https://github.com/nature-of-code/noc-examples-p5.js?files=1<br>
-YouTube(p5.js) https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM<br>
-Git hub(Processing) https://github.com/nature-of-code/noc-examples-processing<br>
-YouTube(Processing) https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK
+**p5.js**<br>
+- Git hub https://github.com/nature-of-code/noc-examples-p5.js?files=1<br>
+- YouTube https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM<br>
+**Processing**<br>
+- Git hub https://github.com/nature-of-code/noc-examples-processing<br>
+- YouTube https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK
 
 *おすすめ by Sad Juno(@Sad_Juno)* <br>
 

@@ -1,6 +1,6 @@
 # Hello
 Processing Community Hangout Japan # 06(2021/08/21)の雑談部屋でのおすすめ本紹介がたのしかったので、creativeCoderの推し本をまとめる場所をつくりました。「この本も載せて！」という本があれば、twitterにて@senbakuにメンションか、#creativeCoderの推し本 のハッシュタグにあてて投稿してください〜。<br>
-このサイトはsenbaku(https://twitter.com/senbaku)が管理しています。
+このサイトはsenbaku(https://twitter.com/senbaku) が管理しています。
 
 **new**
 - 2021/08/23 開設

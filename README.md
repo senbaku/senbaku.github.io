@@ -1,12 +1,11 @@
 # Hello
 Processing Community Hangout Japan # 06(2021/08/21)の雑談部屋でのおすすめ本紹介がたのしかったので、creativeCoderの推し本をまとめる場所をつくりました。「この本も載せて！」という本があれば、twitterにて@senbakuにメンションか、#creativeCoderの推し本 のハッシュタグにあてて投稿してください〜。<br>
-このサイトはsenbaku(https://twitter.com/senbaku) が管理しています。
+このサイトはsenbaku[https://twitter.com/senbaku](https://twitter.com/senbaku) が管理しています。
 
 **new**
 - 2021/08/23 開設
-  ~~~
 - 2021/08/28 『Nature of Code -Processingではじめる自然現象のシミュレーション-』,『美の幾何学―天のたくらみ、人のたくみ』,『アルゴリズミック・デザイン―建築・都市の新しい設計手法』追加
-- 2021/09/12 Raphaël de Courville(@sableRaph)さんのリスト(https://twitter.com/sableRaph/status/1427649830491496448)　から、『When the Machine Made Art』『A Touch of Code: Interactive Installations and Experiences』『HOLO 1』『John maeda nature』を追加しました。
+- 2021/09/12 [Raphaël de Courville(@sableRaph)さんのリスト](https://twitter.com/sableRaph/status/1427649830491496448) から、『When the Machine Made Art』『A Touch of Code: Interactive Installations and Experiences』『HOLO 1』『John maeda nature』を追加しました。
 
 👀  :<br>
 WFrederik Vanhoutteさん(@wblut)のBooklist: https://www.patreon.com/posts/37589393<br>

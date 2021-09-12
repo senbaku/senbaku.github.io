@@ -217,6 +217,11 @@ https://www.amazon.co.jp/dp/4861007518/ref=cm_sw_r_tw_dp_185WEXRM1V6AEM6YZEZJ <b
 https://www.amazon.co.jp/dp/4306045234/ref=cm_sw_r_tw_dp_G9TK1ZSX70DMQ22S5JV8<br>
 *おすすめ by Sad Juno(@Sad_Juno)* <br>
 
+<a href="https://www.amazon.co.jp/Touch-Code-Interactive-Installations-Experiences/dp/3899553314?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=a+touch+of+code&qid=1631412386&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=df0e262d6f59ce149068330149a7b46b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3899553314&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=3899553314" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『A Touch of Code: Interactive Installations and Experiences』**　 Robert Klanten(編集), S. Ehmann(編集), V. Hanschke(編集),Gestalten,2011<br>
+https://www.amazon.co.jp/dp/3899553314/ref=cm_sw_r_tw_dp_VPFVGFVG1868ETQM3N5H<br>
+*おすすめ by Raphaël de Courville(@sableRaph)* <br>
+
 
 
 # 絵画、デザイン理論、技法
@@ -247,14 +252,33 @@ https://www.amazon.co.jp/dp/4568503655/ref=cm_sw_r_tw_dp_PSBQCBM8HDSGV8TD7X7P<br
 https://www.amazon.co.jp/dp/4883033767/ref=cm_sw_r_tw_dp_NV7EFNNQ9MMZYTCPKTTF<br>
 *おすすめ by mits miyake(@mmits003)*
 
+<a href="https://www.amazon.co.jp/Code-Creative-Medium-Handbook-Computational/dp/0262542048?pd_rd_w=YlX5h&pf_rd_p=dd0e5738-5781-4e32-b73e-998b011dad01&pf_rd_r=HX2713T2245V7T59AF77&pd_rd_r=5b9426d3-4814-4938-beaf-f5032a668bbe&pd_rd_wg=yg035&pd_rd_i=0262542048&psc=1&linkCode=li2&tag=holohoto22-22&linkId=9a9acc1dfa02822216745806ef141e09&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0262542048&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=0262542048" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『Code as Creative Medium: A Handbook for Computational Art and Design』**　 Golan Levin(著), Tega Brain(著),The MIT Press,2021<br>
+https://www.amazon.co.jp/dp/0262542048/ref=cm_sw_r_tw_dp_6N7T4F15JMB5ESYK487F?_encoding=UTF8&psc=1<br>
+*おすすめ by Raphaël de Courville(@sableRaph)* <br>
 
-# 音楽
+**『HOLO 1』**　@dassagenhaben　and collaborators,2014
+https://www.holo.mg/shop/holo-1/<br>
+*おすすめ by Raphaël de Courville(@sableRaph)* <br>
+
+<a href="https://www.amazon.co.jp/John-maeda-nature-Maeda/dp/2742758720?crid=1DFZ5JVHSTKD4&dchild=1&keywords=john+maeda+nature&qid=1631414072&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=56439dc8af320e00728db26dc2a3002c&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=2742758720&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=2742758720" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『John maeda nature』**　 Maeda John (著),Fondation Cartier,2005
+https://www.amazon.co.jp/dp/2742758720/ref=cm_sw_r_tw_dp_MQC4WCJW8ABEH7GWPWMW<br>
+*おすすめ by Raphaël de Courville(@sableRaph)* <br>
+
+#　歴史、批評
+<a href="https://www.amazon.co.jp/When-Machine-Made-Art-International/dp/1623568846?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=When+the+Machine+Made+Art&qid=1631412697&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=ab54fa4b0383efa523a3f1b00d59454b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1623568846&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=1623568846" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『When the Machine Made Art』**　 Grant D. Taylor(著),Bloomsbury Academic,2014<br>
+https://www.amazon.co.jp/dp/1623568846/ref=cm_sw_r_tw_dp_HX2713T2245V7T59AF77<br>
+*おすすめ by Raphaël de Courville(@sableRaph)* <br>
+
+
+# そのた
 <a href="https://www.amazon.co.jp/%E9%9F%B3%E6%A5%BD%E5%8F%B2%E3%82%92%E5%AD%A6%E3%81%B6-%E5%8F%A4%E4%BB%A3%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3%E3%81%8B%E3%82%89%E7%8F%BE%E4%BB%A3%E3%81%BE%E3%81%A7-%E4%B9%85%E4%BF%9D%E7%94%B0%E6%85%B6%E4%B8%80/dp/4877887881?&linkCode=li2&tag=holohoto22-22&linkId=0764fa60ee0cf15b3b4eca67ffa3e0d9&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4877887881&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4877887881" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
 **『音楽史を学ぶ 古代ギリシャから現代まで』**　久保田慶一 (著),教育芸術社,2017<br>
 https://www.amazon.co.jp/dp/4877887881/ref=cm_sw_r_tw_dp_3MJ3Z0SGDBBXKJ3MAWW9<br>
 *おすすめ by うえげん（@uegen010)*
 
-# そのた
 <a href="https://www.amazon.co.jp/%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E7%8F%BE%E4%BB%A3%E9%AD%94%E6%B3%95-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E6%A1%9C%E5%9D%82%E6%B4%8B-ebook/dp/B00JB6MN22?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E7%8F%BE%E4%BB%A3%E9%AD%94%E6%B3%95&qid=1629600948&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=78d1363dcaa18eea3326a8ae53432a41&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JB6MN22&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=B00JB6MN22" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
 **『よくわかる現代魔法』** 桜坂洋  (著), 宮下未紀  (著) ,集英社,2009<br>
 https://www.amazon.co.jp/dp/B00JB6MN22/ref=cm_sw_r_tw_dp_CRDBK223R1CQ6PRVSATE<br>

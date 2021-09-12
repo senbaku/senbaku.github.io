@@ -221,6 +221,20 @@ https://www.amazon.co.jp/dp/4306045234/ref=cm_sw_r_tw_dp_G9TK1ZSX70DMQ22S5JV8<br
 https://www.amazon.co.jp/dp/3899553314/ref=cm_sw_r_tw_dp_VPFVGFVG1868ETQM3N5H<br>
 *おすすめ by Raphaël de Courville(@sableRaph)* <br>
 
+<a href="https://www.amazon.co.jp/Code-Creative-Medium-Handbook-Computational/dp/0262542048?pd_rd_w=YlX5h&pf_rd_p=dd0e5738-5781-4e32-b73e-998b011dad01&pf_rd_r=HX2713T2245V7T59AF77&pd_rd_r=5b9426d3-4814-4938-beaf-f5032a668bbe&pd_rd_wg=yg035&pd_rd_i=0262542048&psc=1&linkCode=li2&tag=holohoto22-22&linkId=9a9acc1dfa02822216745806ef141e09&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0262542048&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=0262542048" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『Code as Creative Medium: A Handbook for Computational Art and Design』**　 Golan Levin(著), Tega Brain(著),The MIT Press,2021<br>
+https://www.amazon.co.jp/dp/0262542048/ref=cm_sw_r_tw_dp_6N7T4F15JMB5ESYK487F?_encoding=UTF8&psc=1<br>
+*おすすめ by Raphaël de Courville(@sableRaph)* <br>
+
+**『HOLO 1』**　@dassagenhaben　and collaborators,2014
+https://www.holo.mg/shop/holo-1/<br>
+*おすすめ by Raphaël de Courville(@sableRaph)* <br>
+
+<a href="https://www.amazon.co.jp/John-maeda-nature-Maeda/dp/2742758720?crid=1DFZ5JVHSTKD4&dchild=1&keywords=john+maeda+nature&qid=1631414072&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=56439dc8af320e00728db26dc2a3002c&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=2742758720&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=2742758720" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『John maeda nature』**　 Maeda John (著),Fondation Cartier,2005
+https://www.amazon.co.jp/dp/2742758720/ref=cm_sw_r_tw_dp_MQC4WCJW8ABEH7GWPWMW<br>
+*おすすめ by Raphaël de Courville(@sableRaph)* <br>
+
 
 
 # 絵画、デザイン理論、技法
@@ -251,19 +265,6 @@ https://www.amazon.co.jp/dp/4568503655/ref=cm_sw_r_tw_dp_PSBQCBM8HDSGV8TD7X7P<br
 https://www.amazon.co.jp/dp/4883033767/ref=cm_sw_r_tw_dp_NV7EFNNQ9MMZYTCPKTTF<br>
 *おすすめ by mits miyake(@mmits003)*
 
-<a href="https://www.amazon.co.jp/Code-Creative-Medium-Handbook-Computational/dp/0262542048?pd_rd_w=YlX5h&pf_rd_p=dd0e5738-5781-4e32-b73e-998b011dad01&pf_rd_r=HX2713T2245V7T59AF77&pd_rd_r=5b9426d3-4814-4938-beaf-f5032a668bbe&pd_rd_wg=yg035&pd_rd_i=0262542048&psc=1&linkCode=li2&tag=holohoto22-22&linkId=9a9acc1dfa02822216745806ef141e09&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0262542048&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=0262542048" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
-**『Code as Creative Medium: A Handbook for Computational Art and Design』**　 Golan Levin(著), Tega Brain(著),The MIT Press,2021<br>
-https://www.amazon.co.jp/dp/0262542048/ref=cm_sw_r_tw_dp_6N7T4F15JMB5ESYK487F?_encoding=UTF8&psc=1<br>
-*おすすめ by Raphaël de Courville(@sableRaph)* <br>
-
-**『HOLO 1』**　@dassagenhaben　and collaborators,2014
-https://www.holo.mg/shop/holo-1/<br>
-*おすすめ by Raphaël de Courville(@sableRaph)* <br>
-
-<a href="https://www.amazon.co.jp/John-maeda-nature-Maeda/dp/2742758720?crid=1DFZ5JVHSTKD4&dchild=1&keywords=john+maeda+nature&qid=1631414072&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=56439dc8af320e00728db26dc2a3002c&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=2742758720&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=2742758720" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
-**『John maeda nature』**　 Maeda John (著),Fondation Cartier,2005
-https://www.amazon.co.jp/dp/2742758720/ref=cm_sw_r_tw_dp_MQC4WCJW8ABEH7GWPWMW<br>
-*おすすめ by Raphaël de Courville(@sableRaph)* <br>
 
 #　歴史、批評
 <a href="https://www.amazon.co.jp/When-Machine-Made-Art-International/dp/1623568846?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=When+the+Machine+Made+Art&qid=1631412697&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=ab54fa4b0383efa523a3f1b00d59454b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1623568846&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=1623568846" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>

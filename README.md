@@ -6,7 +6,7 @@ Processing Community Hangout Japan # 06(2021/08/21)の雑談部屋でのおす�
 - 2021/08/23 開設
   ~~~
 - 2021/08/28 『Nature of Code -Processingではじめる自然現象のシミュレーション-』,『美の幾何学―天のたくらみ、人のたくみ』,『アルゴリズミック・デザイン―建築・都市の新しい設計手法』追加
-- 2021/09/12 Raphaël de Courville(@sableRaph)さんのリスト(https://twitter.com/sableRaph/status/1427649830491496448)から、『When the Machine Made Art』『A Touch of Code: Interactive Installations and Experiences』『HOLO 1』『John maeda nature』を追加しました。
+- 2021/09/12 Raphaël de Courville(@sableRaph)さんのリスト(https://twitter.com/sableRaph/status/1427649830491496448)　から、『When the Machine Made Art』『A Touch of Code: Interactive Installations and Experiences』『HOLO 1』『John maeda nature』を追加しました。
 
 👀  :<br>
 WFrederik Vanhoutteさん(@wblut)のBooklist: https://www.patreon.com/posts/37589393<br>

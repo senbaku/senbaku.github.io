@@ -3,10 +3,23 @@ Processing Community Hangout Japan # 06(2021/08/21)の雑談部屋でのおす�
 このサイトはsenbaku([https://twitter.com/senbaku](https://twitter.com/senbaku))が管理しています。
 
 **new**
+- 2023/09/06 5冊追加しました。
+  - 『デジタルメディアと日本のグラフィックデザイン その過去と未来』
+  - 『幾何学パターンづくりのすべて ファッション、建築、デザインのためのリピートパターン制作ガイド』
+  - 『たのしいクリエイティブコーディング　Processingで学ぶコード×アート入門 』 
+  - 『ビジュアライジング・データ ―Processingによる情報視覚化手法』
+  - 『リアルタイムグラフィックスの数学 ― GLSLではじめるシェーダプログラミング』
+
+<details>
+<summary>過去の更新履歴</summary>
+
 - 2021/08/23 開設
 - 2021/08/28 『Nature of Code -Processingではじめる自然現象のシミュレーション-』,『美の幾何学―天のたくらみ、人のたくみ』,『アルゴリズミック・デザイン―建築・都市の新しい設計手法』追加
 - 2021/09/12 [Raphaël de Courville(@sableRaph)さんのリスト](https://twitter.com/sableRaph/status/1427649830491496448) から、『When the Machine Made Art』『A Touch of Code: Interactive Installations and Experiences』『HOLO 1』『John maeda nature』を追加しました。
 - 2022/01/04 『美の構成学―バウハウスからフラクタルまで』を<インスピレーション>に追加しました。
+</details>
+
+<br>
 
 👀  :<br>
 WFrederik Vanhoutteさん(@wblut)のBooklist: https://www.patreon.com/posts/37589393<br>
@@ -39,6 +52,11 @@ http://www.bnn.co.jp/support/generativedesign_p5js/<br>
 https://www.amazon.co.jp/dp/4297104636/ref=cm_sw_r_tw_dp_2ZQSV5KWAQZNFT6QGWWG<br>
 *おすすめ by eqs(@eqs_work)* <br>
 
+<a href="https://www.amazon.co.jp/%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%95%B0%E5%AD%A6-%E2%80%95-GLSL%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E5%B7%B4%E5%B1%B1-%E7%AB%9C%E6%9D%A5/dp/4297130343?crid=2VSDRVZ58PJJB&keywords=%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%95%B0%E5%AD%A6&qid=1693975040&s=books&sprefix=riarutaimugura%2Cstripbooks%2C159&sr=1-1&linkCode=li2&tag=holohoto22-22&linkId=b209d9d854a1334f279cc4de9d611313&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4297130343&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4297130343" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『リアルタイムグラフィックスの数学 ― GLSLではじめるシェーダプログラミング』** 巴山 竜来 (著),技術評論社,2022<br>
+https://www.amazon.co.jp/dp/4297130343?ref_=cm_sw_r_cp_ud_dp_90KAPW0TYQ1DW05NWG4H_1<br>
+*おすすめ by senbaku(@senbaku)* <br>
+
 <a href="https://www.amazon.co.jp/Nature-Code-Processing%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E8%87%AA%E7%84%B6%E7%8F%BE%E8%B1%A1%E3%81%AE%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%95%E3%83%9E%E3%83%B3/dp/4862462456?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=nature+of+code&qid=1630136118&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=1f4fda2531ebe58489c1a603b85a7887&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4862462456&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4862462456" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
 **『Nature of Code -Processingではじめる自然現象のシミュレーション-』** ダニエル・シフマン (著), Daniel Shiffman (著), 尼岡 利崇 (監修), 鈴木 由美 (編集),  株式会社Bスプラウト (翻訳),ボーンデジタル,2014<br>
 https://www.amazon.co.jp/dp/4862462456/ref=cm_sw_r_tw_dp_DGAVFYZ5ZT0A2C2HVPX0<br>
@@ -54,7 +72,15 @@ PDF購入 -> https://www.borndigital.co.jp/book/5425.html<br>
 
 *おすすめ by Sad Juno(@Sad_Juno)* <br>
 
+<a href="https://www.amazon.co.jp/%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-Processing%E3%81%A7%E5%AD%A6%E3%81%B6%E3%82%B3%E3%83%BC%E3%83%89%C3%97%E3%82%A2%E3%83%BC%E3%83%88%E5%85%A5%E9%96%80-%E3%83%A6%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%B3/dp/4802512759?crid=373VX4QN985MU&keywords=%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0&qid=1693974837&s=books&sprefix=%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%81%8F%E3%82%8A%2Cstripbooks%2C173&sr=1-1&linkCode=li2&tag=holohoto22-22&linkId=26f294094981bffbaf44c908b6880ce2&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4802512759&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4802512759" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『たのしいクリエイティブコーディング　Processingで学ぶコード×アート入門 』** <br>ユ・ジャン (著), マティアス・ファンク (著), 杉本達應 (翻訳),株式会社ビー・エヌ・エヌ,2023<br>
+https://www.amazon.co.jp/dp/4802512759?ref_=cm_sw_r_cp_ud_dp_BY90ZWPBM7AV7SNF2GGE<br>
+*おすすめ by senbaku(@senbaku)* <br>
 
+<a href="https://www.amazon.co.jp/%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%87%E3%83%BC%E3%82%BF-%E2%80%95Processing%E3%81%AB%E3%82%88%E3%82%8B%E6%83%85%E5%A0%B1%E8%A6%96%E8%A6%9A%E5%8C%96%E6%89%8B%E6%B3%95-Ben-Fry/dp/4873113784?crid=KQHZ9F2NPBG9&keywords=%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0+%E3%83%87%E3%83%BC%E3%82%BF&qid=1693975201&s=books&sprefix=%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%2Cstripbooks%2C172&sr=1-1&linkCode=li2&tag=holohoto22-22&linkId=367ded08d8d743e8adb7e76090b4e16d&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4873113784&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4873113784" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『ビジュアライジング・データ ―Processingによる情報視覚化手法』** <br>Ben Fry (著), 増井 俊之 (監訳) (監修, 読み手), 加藤 慶彦 (翻訳),オライリージャパン,2008<br>
+https://www.amazon.co.jp/dp/4873113784?ref_=cm_sw_r_cp_ud_dp_E8294YECM0D57M32CPK1<br>
+*おすすめ by senbaku(@senbaku)* <br>
 
 # 技術
 <a href="https://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9-%E6%94%B9%E8%A8%82%E6%96%B0%E7%89%88/dp/4903474496?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9&qid=1629607754&sr=8-1&linkCode=li2&tag=holohoto22-22&linkId=23302bd7357c925ee3264c825a7e33c7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4903474496&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4903474496" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
@@ -266,9 +292,14 @@ https://www.amazon.co.jp/dp/4568503655/ref=cm_sw_r_tw_dp_PSBQCBM8HDSGV8TD7X7P<br
 *おすすめ by タカハシラボ(@ke_takahashi)*
 
 <a href="https://www.amazon.co.jp/%E8%A3%85%E9%A3%BE%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%AE%E6%B3%95%E5%89%87-%E8%97%A4%E7%94%B0-%E4%BC%B8/dp/4883033767?&linkCode=li2&tag=holohoto22-22&linkId=81231d440221f03fcb76efb07cd47be6&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4883033767&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4883033767" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
-**『装飾パターンの法則』** 藤田 伸 (著),三元社,2015<br>
+**『装飾パターンの法則』** 藤田 伸 (著),株式会社ビー・エヌ・エヌ,2022<br>
 https://www.amazon.co.jp/dp/4883033767/ref=cm_sw_r_tw_dp_NV7EFNNQ9MMZYTCPKTTF<br>
 *おすすめ by mits miyake(@mmits003)*
+
+<a href="https://www.amazon.co.jp/%E5%B9%BE%E4%BD%95%E5%AD%A6%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6-%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%81%E5%BB%BA%E7%AF%89%E3%80%81%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%AA%E3%83%94%E3%83%BC%E3%83%88%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E5%88%B6%E4%BD%9C%E3%82%AC%E3%82%A4%E3%83%89-%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3/dp/4802512503?crid=9OQBMOXEQQAZ&keywords=%E5%B9%BE%E4%BD%95%E5%AD%A6%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3&qid=1693974594&s=books&sprefix=kikagakupata%2Cstripbooks%2C161&sr=1-1&linkCode=li2&tag=holohoto22-22&linkId=6d346cd27aab19b040bb8bc9d098e3d4&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4802512503&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4802512503" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『幾何学パターンづくりのすべて ファッション、建築、デザインのためのリピートパターン制作ガイド』** <br>ポール・ジャクソン (著), 牧尾晴喜 (翻訳),三元社,2015<br>
+https://www.amazon.co.jp/dp/4802512503?ref_=cm_sw_r_cp_ud_dp_K0PA58T49Y9R352EB8WT<br>
+*おすすめ by senbaku(@senbaku)*
 
 
 # 歴史、批評
@@ -278,6 +309,11 @@ https://www.amazon.co.jp/dp/4883033767/ref=cm_sw_r_tw_dp_NV7EFNNQ9MMZYTCPKTTF<br
 https://www.amazon.co.jp/dp/1623568846/ref=cm_sw_r_tw_dp_HX2713T2245V7T59AF77<br>
 *おすすめ by Raphaël de Courville(@sableRaph)* <br>
 
+
+<a href="https://www.amazon.co.jp/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%A8%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E3%81%9D%E3%81%AE%E9%81%8E%E5%8E%BB%E3%81%A8%E6%9C%AA%E6%9D%A5-JAGDA%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E5%A7%94%E5%93%A1%E4%BC%9A/dp/441651784X?crid=2TYYIEQTYZO4D&keywords=%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%A8%E6%97%A5%E6%9C%AC%E3%81%AE&qid=1693973672&s=books&sprefix=%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%A8%2Cstripbooks%2C189&sr=1-1&linkCode=li2&tag=holohoto22-22&linkId=4e70ee3a687e6788aeaefa918fc83288&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=441651784X&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=441651784X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+**『デジタルメディアと日本のグラフィックデザイン その過去と未来』** <br>JAGDAインターネット委員会 (編集),誠文堂新光社,2017<br>
+https://www.amazon.co.jp/dp/441651784X?ref_=cm_sw_r_cp_ud_dp_PSB6FHK4JH9CGKEXKZCS_2<br>
+*おすすめ by senbaku（@senbaku)*
 
 # そのた
 <a href="https://www.amazon.co.jp/%E9%9F%B3%E6%A5%BD%E5%8F%B2%E3%82%92%E5%AD%A6%E3%81%B6-%E5%8F%A4%E4%BB%A3%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3%E3%81%8B%E3%82%89%E7%8F%BE%E4%BB%A3%E3%81%BE%E3%81%A7-%E4%B9%85%E4%BF%9D%E7%94%B0%E6%85%B6%E4%B8%80/dp/4877887881?&linkCode=li2&tag=holohoto22-22&linkId=0764fa60ee0cf15b3b4eca67ffa3e0d9&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4877887881&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=holohoto22-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=holohoto22-22&language=ja_JP&l=li2&o=9&a=4877887881" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
@@ -294,5 +330,4 @@ https://www.amazon.co.jp/dp/B00JB6MN22/ref=cm_sw_r_tw_dp_CRDBK223R1CQ6PRVSATE<br
 **『ヘルシープログラマ ―プログラミングを楽しく続けるための健康Hack』** Joe Kutner (著), Sky株式会社 玉川 竜司 (翻訳),オライリージャパン,2015<br>
 https://www.amazon.co.jp/dp/4873117283/ref=cm_sw_r_tw_dp_5QV2ET4N4X22BZX13PH2<br>
 *おすすめ by deconbatch(@deconbatch)*
-
 

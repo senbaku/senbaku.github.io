@@ -21,8 +21,6 @@ Processing Community Hangout Japan # 06(2021/08/21)の雑談部屋でのおす�
 
 <br>
 
-👀  :<br>
-WFrederik Vanhoutteさん(@wblut)のBooklist: https://www.patreon.com/posts/37589393<br>
 
 ---
 # p5.js/Processing

@@ -4,7 +4,9 @@ Processing Community Hangout Japan # 06(2021/08/21)の雑談部屋でのおす�
 
 試験的に Buy Me a Coffee 設置してみます。
 ご支援いただけるとうれしいです。
+
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="senbaku" data-color="#40DCA5" data-emoji="☕" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 <br>
 
 

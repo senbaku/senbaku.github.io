@@ -11,7 +11,7 @@ Processing Community Hangout Japan # 06(2021/08/21)の雑談部屋でのおす�
 <br>
 
 
-**new**
+<u>**new**</u>
 - 2024/04/02
   - 画像リンクを一時削除しました。
   - Buy Me a Coffee　設置
@@ -19,7 +19,7 @@ Processing Community Hangout Japan # 06(2021/08/21)の雑談部屋でのおす�
 
 
 
-**過去の更新履歴**
+<summary><u>過去の更新履歴</u></summary>
 <details>
 - 2021/08/23 開設
 - 2021/08/28 『Nature of Code -Processingではじめる自然現象のシミュレーション-』,『美の幾何学―天のたくらみ、人のたくみ』,『アルゴリズミック・デザイン―建築・都市の新しい設計手法』追加

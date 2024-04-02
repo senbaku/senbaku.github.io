@@ -19,7 +19,7 @@ Processing Community Hangout Japan # 06(2021/08/21)の雑談部屋でのおす�
 
 
 
-<summary>過去の更新履歴</summary>
+**過去の更新履歴**
 <details>
 - 2021/08/23 開設
 - 2021/08/28 『Nature of Code -Processingではじめる自然現象のシミュレーション-』,『美の幾何学―天のたくらみ、人のたくみ』,『アルゴリズミック・デザイン―建築・都市の新しい設計手法』追加

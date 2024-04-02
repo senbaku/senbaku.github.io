@@ -14,7 +14,10 @@ https://www.buymeacoffee.com/senbaku
 
 
 **new**
-- 2024/04/02 画像リンクを一時削除しました。
+- 2024/04/02
+  - 画像リンクを一時削除しました。
+  - Buy Me a Coffee　設置
+  - 『ANALOG ALGORITHM アナログ・アルゴリズムグリッドシステムによる形の探求』を、"インスピレーション"に追加
 
 
 
@@ -268,6 +271,11 @@ https://www.amazon.co.jp/dp/2742758720/ref=cm_sw_r_tw_dp_MQC4WCJW8ABEH7GWPWMW<br
 **『美の構成学―バウハウスからフラクタルまで』** 三井 秀樹 (著),中央公論新社(中公新書),1996
 https://www.amazon.co.jp/dp/4121012968/ref=cm_sw_r_tw_dp_Z1F7G949T516WFRJZ0SV<br>
 *おすすめ by 山辺真幸(@masakick)* <br>
+
+
+**『ANALOG ALGORITHM アナログ・アルゴリズムグリッドシステムによる形の探求』** クリストフ・グリュンベルガー(著),百合田香織(翻訳), 株式会社ビー・エヌ・エヌ,2024
+https://bnn.co.jp/products/9784802512992<br>
+*おすすめ by センバク(@senbaku)* <br>
 
 
 # 絵画、デザイン理論、技法
